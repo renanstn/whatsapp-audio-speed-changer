@@ -14,3 +14,7 @@ Desenvolvido seguindo [este](https://www.youtube.com/watch?v=j0Ih1xVyKbY) maravi
   - Ative o Developer Mode
   - Clique em Load Unpacked / Carregar sem compactação
   - Seleciona a pasta src
+
+## TODO
+
+  - [ ] Migrar esse negócio pro firefox, pq eu não uso o chrome. Memória RAM não é de graça não.
