@@ -22,3 +22,8 @@ Desenvolvido seguindo [este](https://www.youtube.com/watch?v=j0Ih1xVyKbY) maravi
 - Acesse a área de Debugging do Firefox digitando diretamente na barra de endereço: `about: debugging`
 - Clique em "Load Temporary Add-on"
 - Selecione o arquivo `apeed_changer.js`
+
+## Modo de usar
+
+- Ao receber um áudio, clique no ícone de "2x" que aparece no canto superior esquerdo (perto da sua foto)
+- Agora pode dar play no áudio que ele tocará em velocidade aumentada.
