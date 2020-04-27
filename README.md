@@ -15,7 +15,7 @@ Desenvolvido seguindo [este](https://www.youtube.com/watch?v=j0Ih1xVyKbY) maravi
 - Acesse em seu navegador `chrome://extensions`
 - Ative o Developer Mode
 - Clique em Load Unpacked / Carregar sem compactação
-- Seleciona a pasta src
+- Seleciona a pasta do projeto
 
 ### Firefox
 
