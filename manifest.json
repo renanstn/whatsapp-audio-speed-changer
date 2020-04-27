@@ -2,11 +2,12 @@
     "manifest_version": 2,
     "name": "WhatsappAudioSpeedChanger",
     "version": "0.1",
+    "description": "Allows you to increase the speed of audios received on whatsapp web",
     "content_scripts": [
         {
             "matches": ["https://web.whatsapp.com/"],
-            "css": ["src/style.css"],
-            "js": ["src/content.js"]
+            "css": ["style.css"],
+            "js": ["speed_changer.js"]
         }
     ]
 }
