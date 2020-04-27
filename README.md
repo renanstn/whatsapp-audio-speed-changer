@@ -8,13 +8,17 @@ Extensão do chrome, simples, feita com JS puro, que altera a velocidade de todo
 
 Desenvolvido seguindo [este](https://www.youtube.com/watch?v=j0Ih1xVyKbY) maravilhoso tutorial.
 
-## Adicionando a extensão em modo de desenvolvedor
+## Adicionando a extensão
 
-  - Acesse em seu navegador `chrome://extensions`
-  - Ative o Developer Mode
-  - Clique em Load Unpacked / Carregar sem compactação
-  - Seleciona a pasta src
+### Chrome
 
-## TODO
+- Acesse em seu navegador `chrome://extensions`
+- Ative o Developer Mode
+- Clique em Load Unpacked / Carregar sem compactação
+- Seleciona a pasta src
 
-  - [ ] Migrar esse negócio pro firefox, pq eu não uso o chrome. Memória RAM não é de graça não.
+### Firefox
+
+- Acesse a área de Debugging do Firefox digitando diretamente na barra de endereço: `about: debugging`
+- Clique em "Load Temporary Add-on"
+- Selecione o arquivo `apeed_changer.js`
