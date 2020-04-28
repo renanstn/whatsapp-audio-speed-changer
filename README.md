@@ -6,7 +6,7 @@
 
 Extensão do chrome/firefox, simples, feita com JS puro, que altera a velocidade de todos os áudios recebidos pelo whatsapp web em 2x.
 
-Desenvolvido seguindo [este](https://www.youtube.com/watch?v=j0Ih1xVyKbY) maravilhoso tutorial.
+Desenvolvido seguindo [este](https://www.youtube.com/watch?v=j0Ih1xVyKbY) maravilhoso tutorial, com algumas adaptaçes feitas por mim para funcionar no firefox também.
 
 ## Adicionando a extensão
 
@@ -21,7 +21,7 @@ Desenvolvido seguindo [este](https://www.youtube.com/watch?v=j0Ih1xVyKbY) maravi
 
 - Acesse a área de Debugging do Firefox digitando diretamente na barra de endereço: `about: debugging`
 - Clique em "Load Temporary Add-on"
-- Selecione o arquivo `apeed_changer.js`
+- Selecione o arquivo `speed_changer.js`
 
 ## Modo de usar
 
