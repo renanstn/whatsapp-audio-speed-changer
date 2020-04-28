@@ -20,6 +20,7 @@ Desenvolvido seguindo [este](https://www.youtube.com/watch?v=j0Ih1xVyKbY) maravi
 ### Firefox
 
 - Acesse a área de Debugging do Firefox digitando diretamente na barra de endereço: `about:debugging`
+- Clique em "This Firefox" no menu a esquerda
 - Clique em "Load Temporary Add-on"
 - Selecione o arquivo `speed_changer.js`
 
